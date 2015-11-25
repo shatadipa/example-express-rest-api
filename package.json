@@ -1,0 +1,14 @@
+{
+    "name": "example-rest-api",
+    "main": "server.js",
+    "description": "Example rest api for Shoto to practice",
+    "dependencies": {
+        "express": "4.13.3",
+        "mongoose": "4.2.4",
+        "body-parser": "1.14.1",
+        "morgan": "1.6.1",
+        "file-stream-rotator": "0.0.6"
+    },
+    "license": "NO LICENSE",
+    "private": true
+}
